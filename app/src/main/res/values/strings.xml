@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultimediaPizzaOrder</string>
+    <string name="start_order">Bestellung starten</string>
+    <string name="order">Bestellung</string>
+    <string name="greeting">Hallo! Wie heißt du?</string>
+    <string name="pizza_size">in welcher Größe möchtest du deine Pizza? Deine Optionen sind: </string>
+    <string name="dough_type">welchen Teig möchtest du für deine Pizza? Wir haben:</string>
+    <string name="toppings">welchen Belag möchtest du?</string>
+    <string name="toppings_error">Diesen Belag haben wir leider nicht. Wie wärs mit einem anderen?</string>
+    <string name="order_summary">Hier deine Bestellung:</string>
+    <string name="order_correct">Stimmt alles?</string>
+    <string name="order_now">Bestellung aufgeben</string>
+    <string name="error">Etwas ist schiefgelaufen.</string>
+    <string name="alternative">Das haben wir nicht da. Bitte wähle etwas anderes.</string>
+</resources>
